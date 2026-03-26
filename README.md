@@ -1,8 +1,5 @@
 # Taller Evaluado 04 - CI/CD con GitHub Actions
 
-## Estudiante
-Diego Oyarzo Andler
-
 ## Contenido
 - Corrección de `functions.py`
 - Corrección de `test_functions.py`
